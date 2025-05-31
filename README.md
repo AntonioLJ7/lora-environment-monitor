@@ -1,6 +1,5 @@
 # lora-environment-monitor
 LoRa-based environmental monitoring system with ESP32, BME680 and Thinger.io.
-LoRa Environmental Monitoring System (ESP32 + BME680 + Thinger.io)
 
 This project is a wireless environmental monitoring system using two Heltec ESP32 LoRa boards:
 
